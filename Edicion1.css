@@ -1,0 +1,92 @@
+body {
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(255, 240, 242);
+    margin: auto;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: -10px;
+    width: 1000px;
+}
+div {
+    padding: 20px;
+}
+ol {
+   margin-top: -30px;
+   margin-bottom: 40px;
+}
+ .subtitulo{
+    color:  rgba(235, 54, 54, 0.692) ;
+    margin: initial;
+}
+.parrafo {
+    font-size: 20px;
+}
+.titulo {
+    color:rgb(235, 54, 54);
+    text-align: center;
+    padding: 5px;
+}
+.subt {
+    color:  rgb(245, 69, 69) ;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.box {
+    margin: auto;         
+    border-color:rgb(245, 200, 200) ;
+    border-style: solid;
+    border-width: 2px;   
+    padding: 20px;
+    background-color: rgb(245, 210, 210);
+}
+
+.f-d-d {
+    background-color: rgb(250, 225, 225);
+    border-color:rgb(243, 194, 194) ;
+    border-style: solid;
+    border-width: 1px;
+    margin: 5px;
+}
+
+#genero {
+    margin-left: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+.menos-padding {
+    padding-top: initial;
+    padding-bottom: initial;
+}
+.menos-padding-b {
+    padding-bottom: initial;
+}
+.menos-padding-ancla {
+    padding-top: 10px;
+    padding-bottom: initial;
+    padding-left: initial;
+}
+
+
+/*Seguire intentando;v */
+
+.submitbottom {
+ display: block;
+ margin-right:  auto;
+ margin-right: auto;
+}
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.checkbox {
+    width: 18px;
+    height: 18px; 
+    background-color: lightcoral;
+}
+
+.radiobottom {
+    width: 15px;
+    height: 15px; 
+}
